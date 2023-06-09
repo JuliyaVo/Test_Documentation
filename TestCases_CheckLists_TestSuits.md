@@ -30,6 +30,50 @@
   <h1>State&Transition Diagram</h1>
   </div>
   <p><a href="https://drive.google.com/file/d/16BdbeoJhhYIeWeJuJS-VvTF4wCBQLtU9/view?usp=sharing">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APDF_file_icon.svg&psig=AOvVaw31jzJ7mbI7WHMXoIIEtVtH&ust=1686390407249000&source=images&cd=vfe&ved=0CBMQjhxqFwoTCKDW0vvztf8CFQAAAAAdAAAAABAE" title="click here" width="200" height="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/PDF_icon.svg" title="click here" width="200" height="200"/>
 </a>
   </p>
+  <div align=left>
+  <h1>State&Transition Analysis</h1>
+  </div>
+  <p><a href="https://docs.google.com/spreadsheets/d/1P3Dz7Lg5pheQxeJJ4H05apuu6vt0k2qpFpku0PiKS4o/edit?usp=sharing">
+  <img src="https://lh3.ggpht.com/e3oZddUHSC6EcnxC80rl_6HbY94sM63dn6KrEXJ-C4GIUN-t1XM0uYA_WUwyhbIHmVMH=w300" title="click here" width="200" height="200"/>
+</a>
+  </p>
+  <div align=left>
+  <h1>Pairwise&Decision Table</h1>
+  </div>
+  <p><a href="https://docs.google.com/spreadsheets/d/11eF5aGWbN_jCKCXoRZoQ_O7j2zD1-mH7IuBbO9arqHg/edit?usp=sharing">
+  <img src="https://lh3.ggpht.com/e3oZddUHSC6EcnxC80rl_6HbY94sM63dn6KrEXJ-C4GIUN-t1XM0uYA_WUwyhbIHmVMH=w300" title="click here" width="200" height="200"/>
+</a>
+  </p>
+  <div align=left>
+  <h1>Jira</h1>
+  </div>
+  <p><a href="https://drive.google.com/file/d/1Xmyhd9aKRZ9YWSZnPwKBBWani7dQjbNd/view?usp=sharing">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/PDF_icon.svg" title="click here" width="200" height="200"/>
+</a>
+  </p>
+   <div align=left>
+  <h1>Test Managment. Jira & Testomat.io Integration</h1>
+  </div>
+  <p><a href="https://drive.google.com/file/d/1UlyLuh8lhVv21NwIc3c4mxmTux6hyT7Y/view?usp=sharing">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/PDF_icon.svg" title="click here" width="200" height="200"/>
+</a>
+  </p>
+   <div align=left>
+  <h1>Test Bug Reporting in Jira</h1>
+  </div>
+  <p><a href="  https://drive.google.com/file/d/1Nur7X_lkL-684rWYK_BaACDOiCECX-Wi/view?usp=sharing">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/PDF_icon.svg" title="click here" width="200" height="200"/>
+</a>
+  </p>
+  
+  
+  
+  
+  
+  
+  
+  
+  
