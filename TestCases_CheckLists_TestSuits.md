@@ -62,7 +62,7 @@
 </a>
   </p>
    <div align=left>
-  <h1>Test Bug Reporting in Jira</h1>
+  <h1>Bug Reporting in Jira</h1>
   </div>
   <p><a href="  https://drive.google.com/file/d/1Nur7X_lkL-684rWYK_BaACDOiCECX-Wi/view?usp=sharing">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/PDF_icon.svg" title="click here" width="200" height="200"/>
