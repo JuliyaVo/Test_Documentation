@@ -26,3 +26,10 @@
   <img src="https://lh3.ggpht.com/e3oZddUHSC6EcnxC80rl_6HbY94sM63dn6KrEXJ-C4GIUN-t1XM0uYA_WUwyhbIHmVMH=w300" title="click here" width="200" height="200"/>
 </a>
   </p>
+  <div align=left>
+  <h1>State&Transition Diagram</h1>
+  </div>
+  <p><a href="https://drive.google.com/file/d/16BdbeoJhhYIeWeJuJS-VvTF4wCBQLtU9/view?usp=sharing">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APDF_file_icon.svg&psig=AOvVaw31jzJ7mbI7WHMXoIIEtVtH&ust=1686390407249000&source=images&cd=vfe&ved=0CBMQjhxqFwoTCKDW0vvztf8CFQAAAAAdAAAAABAE" title="click here" width="200" height="200"/>
+</a>
+  </p>
